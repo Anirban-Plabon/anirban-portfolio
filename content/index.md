@@ -2,7 +2,11 @@
 title: Introduction
 css: just.css
 ---
-<img src="anirban-logo.png" width="70" height="70">
+<img src="anirban-logo.png" width="70" height="70"> 
+
+![Role](https://img.shields.io/badge/VLSI%20Automation%20Engineer-Assistant%20Engineer-7abd65?style=flat&labelColor=0047ff)
+
+![RUET CSE](https://img.shields.io/badge/RUET-CSE-orange?style=flat&labelColor=00afff)
 
 ### Who am I                                                        
 
