@@ -5,9 +5,7 @@ css: just.css
 <img src="anirban-logo.png" width="70" height="70"> 
 
 ![Role](https://img.shields.io/badge/VLSI%20Automation%20Engineer-Assistant%20Engineer-7abd65?style=flat&labelColor=0047ff)
-
 ![RUET CSE](https://img.shields.io/badge/RUET-CSE-orange?style=flat&labelColor=00afff)
-
 ### Who am I                                                        
 
 Anirban is a `jack-of-all-trades—master` of none—in the best possible way: an offbeat mix of semi-artist, poet, and technologist who loves exploring ideas more than staying in any one lane. He’s always loved math (even if the numbers sometimes win), but physics never quite caught his heart. He studied `Computer Science`, yet somehow found himself as a `VLSI Automation Engineer`—and he loved the change. Now, he’s trying to bring all his computer science knowledge into the world of VLSI, blending software thinking with hardware precision. Deeply fascinated by artificial intelligence, he loves weaving it into his work from every possible angle—where vision, language, and logic meet and inspire one another. He stitches together code, verse, and visual instincts into unexpected combinations. A little `out-of-stream` and endlessly curious, Anirban turns strange blends into his signature style.
