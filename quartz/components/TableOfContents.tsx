@@ -95,7 +95,52 @@ export default ((opts?: Partial<Options>) => {
       </details>
     )
   }
-  LegacyTableOfContents.css = legacyStyle
+  // LegacyTableOfContents.css = legacyStyle
+  TableOfContents.css = `
+${modernStyle}
+
+/* === Custom Rounded Box Style for Table of Contents === */
+
+.toc {
+  border: 1px solid var(--lightgray);
+  border-radius: 5px;
+  padding: 1rem;
+  background-color: var(--light);
+}
+
+/* Table of Contents header */
+.toc-header {
+  border-radius: 2px;
+  background-color: var(--lightgray);
+  padding: 0.5rem 0.75rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* Each ToC entry */
+.toc-content li {
+  list-style: none;
+  margin: 0.3rem 0;
+  border-radius: 2px;
+  transition: background-color 0.2s ease;
+}
+
+/* Link styling inside box */
+.toc-content li a {
+  padding: 0.4rem 0.6rem;
+  border-radius: 2px;
+  text-decoration: none;
+  color: var(--dark);
+}
+
+/* Hover effects */
+.toc-content li a:hover {
+  background-color: var(--highlight);
+  color: var(--secondary);
+}
+`
+
 
   return layout === "modern" ? TableOfContents : LegacyTableOfContents
 }) satisfies QuartzComponentConstructor

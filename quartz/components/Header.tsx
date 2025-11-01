@@ -16,6 +16,7 @@ header {
 header h1 {
   margin: 0;
   flex: auto;
+  color: #2c6efdff
 }
 `
 
