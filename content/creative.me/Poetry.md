@@ -77,6 +77,7 @@ title: Poetry
 কেউ নেই।
 তুইও নেই।
 ```
+
 `Translate`
 
 > [!note]- **Anirban Doesn't Draw Anything**
@@ -219,9 +220,10 @@ title: Poetry
 আরো একবার কাদো।
  
 তাও বেঁচে থাকো। 
-
 ```
+
 `Translate`
+
 > [!note]- **To Keep Living**
 > Go, run away.  
 > Far, farther still — to another land.  
@@ -280,7 +282,9 @@ title: Poetry
 একদিন ময়ূরপঙ্খীরঙ্গা ফুলের স্বর্ণমণ্ডিত কেশর হয়ে উঠবে সে।
 জীবন যুদ্ধে জয়ী হবে, সেই আশাই করে সে।
 ```
+
 `Translate`
+
 > [!note]- **As If Just to Keep Living**
 > I am a creature, endangered in the eternity of time.  
 > With a skyful of hope —  
@@ -359,7 +363,9 @@ title: Poetry
 নব্য যুগের সূচনায় ত্রিলোক হতে আসে শঙ্খনিনাদ।
 এ যেন হৃদয়-আত্মার যুগপৎ যুগসন্ধি।
 ```
+
 `Translate`
+
 > [!note]- **Transcendence**
 > This heart wants just a little peace.  
 > A life stirred by bleeding since birth has grown weary.  
@@ -445,7 +451,9 @@ title: Poetry
 - ইতি
 অলোক
 ```
+
 `Translate`
+
 > [!note]- **Dear Paromita**
 > Dear Paromita,
 > I know—  
@@ -513,6 +521,7 @@ title: Poetry
 নিজীব - নিষ্প্রাণ - কিম্ভুতকিমাকার অপ্রাকতিক জড়পদার্থ স।
 তার অযৌক্তিক নিরর্থক আস্ফালনের আসলেই কোনো মূল্য নেই।
 ```
+
 `Translate`
 
 > [!note]- **Will I ever find the meaning of your words**
@@ -644,7 +653,9 @@ title: Poetry
 সমতলের দুঃখ আমার ধানের বশে সবার হয়।
 সেই দুঃখ তোমারও হয়, পাখিরও হয়।
 ```
+
 `Translate`
+
 > [!note]- **Sorrows on the Plain**
 > When sorrow was small,  
 > at first it was wind.  
@@ -714,7 +725,9 @@ title: Poetry
 যে মানুষটার যেকোনো সুন্দর মুহূর্তে কবিতা লিখতে মন চায়, 
 তার গায়ে আবর্জনার গন্ধ কেনো?
 ```
+
 `Translate`
+
 > [!note]- **I Am a Weary Soul**
 > I am a weary soul.  
 > All around, life's ocean foams.  
@@ -762,7 +775,9 @@ title: Poetry
 গগন বিদারী চিৎকার শোনো?
 তুমি কি ওকে ধারণ করো, লালন করো?
 ```
+
 `Translate`
+
 > [!note]- **Fierce Black Clouds**
 > Fierce black clouds.  
 > Clouds melt into pouring rain, two lightning strikes.  
@@ -805,7 +820,9 @@ title: Poetry
 - তার দুঃখ আকাশ বাঝে, বাতাস বাঝে, বনান্তও বাঝে,
 - আর আমি বুঝি, খানিকটা।
 ```
+
 `Translate`
+
 > [!note]- **Anirban, How Do You Feel About Mountains?**
 > :`Anirban`, how do you feel about mountains?  
 > :Mine?  
@@ -841,6 +858,7 @@ title: Poetry
 কিছু শব্দ নির্মর হয়, কপট হয়।
 ```
 `Translate`
+
 > [!note]- **Words Are Beautiful**
 > Words are beautiful.  
 > Soft, gentle, tender.  
@@ -883,7 +901,9 @@ title: Poetry
 কোনো জন, বা পরিজন, আগন্তুক কিংবা আত্মীয়,
 কেউ বদলাতে পারবে না।
 ```
+
 `Translate`
+
 > [!note]- **Dhruva (The Constant)**
 > You can say whatever you want to me.  
 > Whatever.  
@@ -937,7 +957,9 @@ title: Poetry
 হৃদয় কোণে যত্ন করে আলতো করে পুষে রাখি।
 আমি যে তোমায় ভালোবাসি।
 ```
+
 `Translate`
+
 > [!note]- **Why Am I So Generous**
 > Why am I so generous  
 > perhaps I couldn't want  
@@ -971,6 +993,141 @@ title: Poetry
 
 ---
 
+## আঁধার নামে যখন
+
+আমার একটা সন্ধ্যে তুমি নিও -
+ঠিক রোজার দিনের আজান কালের সন্ধ্যেটা।
+যখন কোলাহল থামে অপলক, চারপাশ সুনসান - চুপচাপ।
+
+আলো ঢলতেই ঝুম করে আঁধার নামে যখন -
+বুক পকেটের জারুল ফুলটা তখন নিও না হয়।
+ক্লান্ত ফুল, ক্লান্ত চুল - ঠিক কানের ভাজেই শোভা পাক।
+
+এক বিকেলের বৃষ্টি শেষে, দ্রুত গতির সন্ধ্যে আসে -
+সেই সন্ধ্যেই তোমার হোক, আমার হোক।
+হাতের কোষের উষ্ণতাটা তোমার গালেই মিশে যাক।
+
+তোমার নীল আঁচলে সন্ধ্যে মিশুক
+গন্ধ মিশুক শহরতলির, সুবাস জড়াক ভেজা মাটির।
+সঙ্গে চলুক পথের কুকুর, সঙ্গ দিক পাখির ঝাঁক।
+
+আমার সাথে বসবে চলো,
+চায়ের কাপে গল্প হোক, খানিক নাহয় জিরোনো যাক।
+আমার শ্রান্ত প্রাণ, ক্লান্ত হাত - তোমার কাঁধেই রাত পোহাক।
+
+`Translate`
+
+> [!note]- **When Darkness Falls**
+> Take for me an evening, just one, I pray—
+> The evening of the fast-breaking call at the close of day.
+> When hush descends, and the noise falls still,
+> The world stands mute, serene, and chill.
+> 
+> When light pours down, and dusk arrives with a thud—
+> Then take not the jarul flower from my chest, if you could.
+> Let the tired flower, the weary hair, find rest instead,
+> Right on the curve of the ear, let its beauty be spread.
+> 
+> After a rain-soaked afternoon, when the swift dusk starts to flow—
+> Let that evening be yours, let that evening be mine, I know.
+> Let the warmth cupped inside my palm, so tender and so true,
+> Dissolve upon your cheek, like morning dew.
+
+> Let the evening blend with your blue scarf's fold,
+> Let the scent of suburbs and wet earth's aroma hold.
+> Let the street dogs walk beside, the flocks of birds take flight,
+> As we borrow a piece of dusk from fading light.
+
+> Come, sit with me, let's share some time,
+> Stories in tea cups, some lazy rhyme.
+> My weary soul, my tired hand, they seek no other break—
+> Let this long night end only on your shoulder's wake.
+
+---
+
+No — this poem was **not included** in the text you shared earlier. This is another **new addition**.
+
+I’ve kept your structure, corrected only spelling where needed, and translated it with attention to **flow and poetic rhythm (ছন্দ)**.
+
+---
+
+## তাকে দেখতে প্রতিমার মত
+
+```
+তাকে দেখতে প্রতিমার মত।
+গোলগাল।
+বড় চোখ, ভরাট গাল।
+আর কপালের কালো টিপ যেন তার তৃতীয় চোখ।
+অদ্ভুত মায়া মুখচ্ছবিতে।
+
+তাকে চিনি না ভালো।
+আবছায়া জলছবি যেন, ভাসা ভাসা -
+তবুও যেন চোখে লেগে আছে বহুকাল ধরে।
+
+হাঁটা বসায় দেখতে পাওয়া ভালো মেয়েকে কি বলা যায় -
+"তুমি দেখতে বড়ই সুন্দর।
+ইচ্ছে হয় তোমায় আরো দেখি।
+ঘুমের কালে চোখের পাতায় শুইয়ে রাখি।"
+বলা কি যায়?
+"তোমায় দেখলে সুষুম্নায় চাপ বাড়ে।
+বক্ষগহ্বরে দেবী আহ্বানের মহাডঙ্কা বাজে।
+চোখ নাচে, কান রক্তবর্ণে তপ্ত হয়ে যায়।
+হাত পা বল হারায়, আর মন খেয়াল হারায়।"
+এ কথা কি আলোর কোলের মেয়েকে বলা যায়?
+
+বোধহয় বলা যায় না।
+তাকে যেন শুধু অনুভব করা যায়।
+কয়েক যোজন দূর থেকে শুধুই অপলক চেয়ে থাকা যায়।
+সে যেন চাঁদের মতো,
+যার আলোয় নিজেকে ভাসিয়ে নেওয়া যায় -
+কিন্তু তার কাছে পৌঁছনো যায় না।
+```
+
+`Translate`
+
+> [!note]- **She Looks Like an Idol**
+> She looks like an idol—
+> soft, rounded, full of grace.
+> Large eyes, full cheeks,
+> and that black mark on her forehead—
+> like a third eye.
+> A strange enchantment in her face.
+>
+> I do not really know her.
+> Like a blurred water-image, drifting—
+> and yet, she lingers in my eyes
+> as if for ages.
+>
+> Can one say to a girl
+> seen in passing—walking, sitting—
+> “You are so very beautiful.
+> I wish to see you more.
+> I wish to lay you gently
+> upon my eyelids in sleep.”
+> Can one say that?
+>
+> Can one say—
+> “At the sight of you, something stirs deep within,
+> in my chest resounds a divine drum-call.
+> My eyes tremble,
+> my ears burn red with heat,
+> my limbs lose strength,
+> and my mind loses its way.”
+> Can such words be spoken
+> to a girl cradled in light?
+>
+> Perhaps not.
+> Perhaps she can only be felt.
+> From miles away,
+> one can only gaze—unblinking.
+>
+> She is like the moon—
+> in whose light one may drift and dissolve,
+> yet never truly reach.
+
+
+---
+
 ## কমলা রোদ
 
 ```
@@ -990,7 +1147,9 @@ title: Poetry
 নিদারুণ মায়াচ্ছন্ন আবেশে ভাসিয়ে নেবে সে।
 স্মৃতির রোমন্থনে নস্টালজিক উপলব্ধি করাবে সে।
 ```
+
 `Translate`
+
 > [!note]- **Orange Sunlight**
 > Orange sunlight of evening.  
 > It births strange loneliness!  
@@ -1052,7 +1211,9 @@ title: Poetry
 মতিভ্রষ্ট দিকভ্রষ্ট।
 ফ্যাল ফ্যাল করে চেয়ে থাকা ছাড়া যেনো কিছুই করার নেই আমার।
 ```
+
 `Translate`
+
 > [!note]- **Tumult**
 > Again and again I seem to survive, or do I die.  
 > What do I know what happens?  
@@ -1094,15 +1255,17 @@ title: Poetry
 
 ```
 নগর জুড়ে কোলাহল কেবল।
-ভাঁ ভাঁ করে ঘুরছে সব।
-ধুলা ময়লা পাঁচা গন্ধ সর্বত্র।
+ভোঁ ভোঁ করে ঘুরছে সব।
+ধুলা ময়লা পঁচা গন্ধ সর্বত্র।
 সুখ নেই,
 শান্তি নেই,
 ত্রস্ত ব্যস্ত নগরী কেবলই ছুটছে।
-আমার মাথায় বাসা বাঁধেছে নগরী।
+
+আমার মাথায় বাসা বেঁধেছে নগরী।
 নগর ছুটছে আমিও ছুটছি।
-নগর পাঁচছে আমি পচছি।
+নগর পঁচ্ছে আমি পঁচ্ছি।
 ```
+
 `Translate`
 
 > [!note]- **Across the City, Only Clamor**
@@ -1163,7 +1326,9 @@ title: Poetry
 তোমাকে ভালবাসবো বলে।
 
 ```
+
 `Translate`
+
 > [!note]- **My Evenings**
 > Tell me — how many evenings have I received from you?  
 > Countless, perhaps thousands.  
