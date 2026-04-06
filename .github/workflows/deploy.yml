@@ -3,7 +3,9 @@ name: Deploy Quartz site to GitHub Pages
 on:
   push:
     branches:
-      - v4
+      - main  # Change 'v4' to 'main' (or your actual default branch)
+    tags:
+      - 'v*'   # This ensures v0.0.1 triggers a build too
  
 permissions:
   contents: read
