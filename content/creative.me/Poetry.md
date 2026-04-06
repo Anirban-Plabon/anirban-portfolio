@@ -114,9 +114,9 @@ title: Poetry
 > Or a winter sun,  
 > cupped in your palm like a small warm fist,  
 > so dearly fond.
->
+>  
 > —No.
->
+>  
 > Then can you paint a storm?  
 > A terrible storm,  
 > advancing with a savage roar—  
@@ -125,11 +125,11 @@ title: Poetry
 > a storm that shatters the heart,  
 > shatters you,  
 > shatters me.
->
+>  
 > —No.
->
+>  
 > Then what do you paint?
->
+>  
 > —I used to.  
 > I painted clouds, and rain, and sun—everything.  
 > I painted you.  
