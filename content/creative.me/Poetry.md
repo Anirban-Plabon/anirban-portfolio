@@ -77,8 +77,8 @@ title: Poetry
 কেউ নেই।
 তুইও নেই।
 ```
-`Translate`
 
+`Translate`
 > [!note]- **Anirban Doesn't Draw Anything**
 > Can you paint clouds, `Anirban`?  
 > White ones.  
