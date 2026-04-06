@@ -1047,40 +1047,40 @@ title: Poetry
 
 `Translate`
 
-> [!note]- **She Looks Like an Idol**
-> She looks like an idol—
-> soft, rounded, full of grace.
-> Large eyes, full cheeks,
-> and that black mark on her forehead—
-> like a third eye.
-> A strange enchantment in her face.
-> I do not really know her.
-> Like a blurred water-image, drifting—
-> and yet, she lingers in my eyes
-> as if for ages.
-> Can one say to a girl
-> seen in passing—walking, sitting—
-> “You are so very beautiful.
-> I wish to see you more.
-> I wish to lay you gently
-> upon my eyelids in sleep.”
-> Can one say that?
-> Can one say—
-> “At the sight of you, something stirs deep within,
-> in my chest resounds a divine drum-call.
-> My eyes tremble,
-> my ears burn red with heat,
-> my limbs lose strength,
-> and my mind loses its way.”
-> Can such words be spoken
-> to a girl cradled in light?
-> Perhaps not.
-> Perhaps she can only be felt.
-> From miles away,
-> one can only gaze—unblinking.
-> She is like the moon—
-> in whose light one may drift and dissolve,
-> yet never truly reach.
+> [!note]- **She Looks Like an Idol**  
+> She looks like an idol—  
+> soft, rounded, full of grace.  
+> Large eyes, full cheeks,  
+> and that black mark on her forehead—  
+> like a third eye.  
+> A strange enchantment in her face.  
+> I do not really know her.  
+> Like a blurred water-image, drifting—  
+> and yet, she lingers in my eyes  
+> as if for ages.   
+> Can one say to a girl  
+> seen in passing—walking, sitting—  
+> “You are so very beautiful.  
+> I wish to see you more.  
+> I wish to lay you gently  
+> upon my eyelids in sleep.”  
+> Can one say that?  
+> Can one say—  
+> “At the sight of you, something stirs deep within,  
+> in my chest resounds a divine drum-call.  
+> My eyes tremble,  
+> my ears burn red with heat,  
+> my limbs lose strength,  
+> and my mind loses its way.”  
+> Can such words be spoken  
+> to a girl cradled in light?  
+> Perhaps not.  
+> Perhaps she can only be felt.  
+> From miles away,  
+> one can only gaze—unblinking.  
+> She is like the moon—  
+> in whose light one may drift and dissolve,  
+> yet never truly reach.  
 
 
 ---
@@ -1345,23 +1345,25 @@ title: Poetry
 ফিরে চল, তোমার অস্তিত্বে, আমার অস্তিত্বে।
 ফিরে চল, আমাদের অস্তিত্বে।
 ```
-> [!note]- **Return**
-> Strange, why did I feel like crying when I saw you?
-> Why did my heart shatter into pieces?
-> Why did my eyes sting and burn upon seeing you?!
-> The mountain of words accumulated over a thousand days—
-> Why did they strike so hard against the doors of my heart's chambers?
-> Why couldn't I say anything?
-> Why did everything remain unsaid?
-> Why did I want to say—
-> Return.
-> Return to the greenery.
-> Return to the shimmering fields of a sun-drenched afternoon.
-> Return to the forest, to the azure.
-> Return to the sky, to the infinite.
-> Return.
-> Return to your existence, to my existence.
-> Return to our existence.
+> [!note]- **Return**  
+> Strange, why did I feel like crying when I saw you?  
+> Why did my heart shatter into pieces?  
+> Why did my eyes sting and burn upon seeing you?!  
+> The mountain of words accumulated over a thousand days—  
+> Why did they strike so hard against the doors of my heart's chambers?  
+> Why couldn't I say anything?  
+> Why did everything remain unsaid?  
+> Why did I want to say—  
+> Return.  
+> Return to the greenery.  
+> Return to the shimmering fields of a sun-drenched afternoon.  
+> Return to the forest, to the azure.  
+> Return to the sky, to the infinite.  
+> Return.  
+> Return to your existence, to my existence.  
+> Return to our existence.  
+
+---
 
 ## আমি যেন প্রকৃতির উপযোগ হই
 ```
@@ -1400,34 +1402,34 @@ title: Poetry
 
 `Translate`
 
-> [!note]- **Let Me Be an Offering to Nature**
-> Touch me, if you will.
->Even with neglect or indifference.
-> Or perhaps, along the circumference of my world—
-> Walk just a few steps.
-> Come and see.
-> See how strangely and beautifully I survive without you.
-> I am breathing, drinking water, laughing.
-> Without you, there is a strange joy even in tearing my own hair.
-> The five scars on my wrist bring me comfort.
-> Even if ants feast on my severed ear, I feel a thrill.
-> In the paradox of pain, I only feel a shiver of life.
-> On my eternal journey—
-> Bring a single white Kash flower.
-> Touch it to my half-decayed body.
-> I will find peace.
-> I know the fire will not touch me.
-> So, let me drift away in the water.
-> Keep a red water lily in my breast pocket.
-> This red lily is the reflection of the wound in my heart.
-> The wound you never looked at—
-> Let the sky see it.
-> The pain you never understood—
-> Let the river understand it.
-> The words you never listened to—
-> Let the wind hear them.
-> The 'me' who could never be yours—
-> Let him become an element of nature.
+> [!note]- **Let Me Be an Offering to Nature**  
+> Touch me, if you will.  
+>Even with neglect or indifference.  
+> Or perhaps, along the circumference of my world—  
+> Walk just a few steps.  
+> Come and see.  
+> See how strangely and beautifully I survive without you.  
+> I am breathing, drinking water, laughing.  
+> Without you, there is a strange joy even in tearing my own hair.  
+> The five scars on my wrist bring me comfort.  
+> Even if ants feast on my severed ear, I feel a thrill.  
+> In the paradox of pain, I only feel a shiver of life.  
+> On my eternal journey—  
+> Bring a single white Kash flower.    
+> Touch it to my half-decayed body.  
+> I will find peace.  
+> I know the fire will not touch me.  
+> So, let me drift away in the water.  
+> Keep a red water lily in my breast pocket.  
+> This red lily is the reflection of the wound in my heart.  
+> The wound you never looked at—  
+> Let the sky see it.  
+> The pain you never understood—  
+> Let the river understand it.    
+> The words you never listened to—  
+> Let the wind hear them.  
+> The 'me' who could never be yours—  
+> Let him become an element of nature.  
 
 
 ---
@@ -1469,38 +1471,38 @@ title: Poetry
 
 `Translate`
 
-> [!note]- **An Unlawful Separation**
-> I have not yet felt separation.
-> And yet—
-> somehow, these monsoon-laden days
-> are granting legitimacy to my longing.
-> This longing feels... improper.
-> Like an indulgence without right.
-> A presence that should not exist.
-> A feeling that should not be expressed.
-> Something never meant to be practiced,
-> never meant to take form at all.
-> And yet—it exists.
-> Wrapped within the folds of my mind,
-> like embers buried under ash,
-> like an unspoken melody,
-> like an unwritten line of verse—
-> it exists.
-> And perhaps, that existence itself
-> is the truest thing of all.
-> Just as the monsoon rains
-> overflow the banks of the Padma
-> and drown village after village—
-> so too these forbidden sorrows
-> have crossed the bounds of the heart
-> and flooded the mind.
-> This sorrow has no legitimacy.
-> Yet it has truth.
-> It is improper—
-> yet it has force.
-> It is unspoken—
-> yet it has vastness,
-> and depth.
+> [!note]- **An Unlawful Separation**  
+> I have not yet felt separation.  
+> And yet—  
+> somehow, these monsoon-laden days  
+> are granting legitimacy to my longing.  
+> This longing feels... improper.    
+> Like an indulgence without right.  
+> A presence that should not exist.  
+> A feeling that should not be expressed.  
+> Something never meant to be practiced,  
+> never meant to take form at all.  
+> And yet—it exists.  
+> Wrapped within the folds of my mind,  
+> like embers buried under ash,  
+> like an unspoken melody,  
+> like an unwritten line of verse—  
+> it exists.  
+> And perhaps, that existence itself  
+> is the truest thing of all.  
+> Just as the monsoon rains  
+> overflow the banks of the Padma  
+> and drown village after village—  
+> so too these forbidden sorrows  
+> have crossed the bounds of the heart  
+> and flooded the mind.   
+> This sorrow has no legitimacy.  
+> Yet it has truth.  
+> It is improper—  
+> yet it has force.  
+> It is unspoken—  
+> yet it has vastness,  
+> and depth.  
 
 ---
 
@@ -1533,34 +1535,34 @@ title: Poetry
 
 `Translate`
 
-> [!note]- **Lost in Blue**
-> Why don’t my evenings turn blue?
-> I do not wish
-> for everything to be covered
-> in a tired grey.
-> I want everything to be blue—
-> from blue to deeper blue,
-> until all is drenched
-> in an endless, profound horizon.
-> I want—
-> in a strangely beautiful dusk,
-> the strands of hair on the right side of your hazy face
-> to leave their trace upon my cheek.
-> I want your right forefinger
-> to draw idle patterns on my left ear.
-> Your warm breath
-> to reach my chin.
-> My lips
-> to brush your forehead.
-> Your eyes
-> to look only at me.
-> At the corners of your eyes,
-> let the falling drops hold only tenderness.
-> I want—
-> you to hold me with both your hands.
-> To weave yourself into every scratch upon my back.
-> To claim me, like Damayanti claimed her own.
-> Let this small evening of mine
-> dissolve and merge
-> into a vast, cosmic blue.
+> [!note]- **Lost in Blue**  
+> Why don’t my evenings turn blue?  
+> I do not wish  
+> for everything to be covered  
+> in a tired grey.  
+> I want everything to be blue—  
+> from blue to deeper blue,  
+> until all is drenched  
+> in an endless, profound horizon.  
+> I want—  
+> in a strangely beautiful dusk,  
+> the strands of hair on the right side of your hazy face  
+> to leave their trace upon my cheek.  
+> I want your right forefinger  
+> to draw idle patterns on my left ear.  
+> Your warm breath  
+> to reach my chin.  
+> My lips  
+> to brush your forehead.  
+> Your eyes  
+> to look only at me.  
+> At the corners of your eyes,  
+> let the falling drops hold only tenderness.  
+> I want—  
+> you to hold me with both your hands.  
+> To weave yourself into every scratch upon my back.  
+> To claim me, like Damayanti claimed her own.  
+> Let this small evening of mine  
+> dissolve and merge  
+> into a vast, cosmic blue.  
 
