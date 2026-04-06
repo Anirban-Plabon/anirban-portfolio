@@ -77,7 +77,6 @@ title: Poetry
 কেউ নেই।
 তুইও নেই।
 ```
-
 `Translate`
 
 > [!note]- **Anirban Doesn't Draw Anything**
