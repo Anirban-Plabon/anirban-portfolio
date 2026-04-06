@@ -88,9 +88,9 @@ title: Poetry
 > where the sun is lost,  
 > the sky is lost,  
 > and you are lost with them.
-> 
+>
 > —No.
-> 
+>
 > Can you paint rain, `Anirban`?  
 > Rain that hammers down,  
 > soaks me through,  
@@ -103,9 +103,9 @@ title: Poetry
 > not my hair, not my nails,  
 > a rain like tears.  
 > Can you paint that?
-> 
+>
 > —No.
-> 
+>
 > Can you paint sunlight?  
 > A searing noon,  
 > that blisters everything—  
@@ -114,9 +114,9 @@ title: Poetry
 > Or a winter sun,  
 > cupped in your palm like a small warm fist,  
 > so dearly fond.
-> 
+>
 > —No.
-> 
+>
 > Then can you paint a storm?  
 > A terrible storm,  
 > advancing with a savage roar—  
@@ -125,11 +125,11 @@ title: Poetry
 > a storm that shatters the heart,  
 > shatters you,  
 > shatters me.
-> 
+>
 > —No.
-> 
+>
 > Then what do you paint?
-> 
+>
 > —I used to.  
 > I painted clouds, and rain, and sun—everything.  
 > I painted you.  
