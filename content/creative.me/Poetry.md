@@ -163,22 +163,21 @@ title: Poetry
 `Translate`
 
 > [!note]- **If You Had Only Wanted**
-> If you had wanted—
-> I would have given you all my riches.
-> If you had wanted—
-> I would have given you all my wealth.
-> If you had wanted—
-> I would have given you all my feelings—
-> my grievances, my affections.
-> If you had wanted—
-> I would have surrendered all I have ever earned into you,
-> and as one purified, stripped of everything,
-> I would have dissolved within you.
-> I know—
-> this pure, devoted love is not written in my fate.
-> Still, what harm is there in being enchanted?
-> What harm is there in remaining deeply, passionately attached?
-
+> If you had wanted—  
+> I would have given you all my riches.  
+> If you had wanted—  
+> I would have given you all my wealth.  
+> If you had wanted—  
+> I would have given you all my feelings—  
+> my grievances, my affections.  
+> If you had wanted—  
+> I would have surrendered all I have ever earned into you,  
+> and as one purified, stripped of everything,  
+> I would have dissolved within you.  
+> I know—  
+> this pure, devoted love is not written in my fate.  
+> Still, what harm is there in being enchanted?  
+> What harm is there in remaining deeply, passionately attached?  
 
 ---
 
@@ -211,7 +210,7 @@ title: Poetry
 > [!note]- **To Keep Living**
 > Go, run away.  
 > Far, farther still — to another land.  
-> To the blue hills, or into the blue sky.
+> To the blue hills, or into the blue sky.  
 > Or be an Angad —  
 > Dive into rebirth.  
 > Paint, adorn.  
@@ -221,13 +220,13 @@ title: Poetry
 > And if you find nothing —  
 > Gently stroke the crimson tresses of spring’s Alakananda.  
 > Rub your tireless feet against the earth,  
-> And fall asleep with dew upon your eyelids.
+> And fall asleep with dew upon your eyelids.  
 > If sleep does not come — laugh. Cry.  
 > Or simply breathe deep.  
 > While breathing, look up at the sky.  
 > And when a tear gathers at the corner of your eye —  
-> Cry once more.
-> Still — live on.
+> Cry once more.  
+> Still — live on.  
 
 ---
 
@@ -270,22 +269,22 @@ title: Poetry
 > [!note]- **As If Just to Keep Living**
 > I am a creature, endangered in the eternity of time.  
 > With a skyful of hope —  
-> I live on, like an ignorant cripple, barely aware.
+> I live on, like an ignorant cripple, barely aware.  
 > Seek from end to end, and you will find nothing —  
 > No one to be found.  
-> From head to toe, a clownish Bhavani — hollow, alone,  
-> A strange and twisted being. 
+> From head to toe, a clownish Bhavani — hollow, alone,    
+> A strange and twisted being.   
 > Time itself falters before him,  
 > Helpless in its passing.  
 > Among heaps of bad habits and garbage heaps,  
 > Half-decayed and trampled — he still drags along the weight of life.  
 > His life — like a snail stuck  
-> To a wall thick with centuries of moss.
-> And yet, he imagines, he searches for meaning —  
+> To a wall thick with centuries of moss.  
+> And yet, he imagines, he searches for meaning —    
 > Bowing his weary head,  
 > Swallowing every burden whole.  
 > Day after day, he endures  
-> In a self-imposed prison of existence.
+> In a self-imposed prison of existence.  
 > Still — he lives.  
 > Only with a shred of self-respect  
 > And a heart full of faith, he waits.  
@@ -296,7 +295,7 @@ title: Poetry
 > He shall bloom —  
 > Into the golden filament of a peacock-feathered flower.  
 > He believes —  
-> One day, he will win the battle of life.
+> One day, he will win the battle of life.  
 
 ---
 
@@ -711,10 +710,10 @@ title: Poetry
 > Daily searching for light,  
 > I am the stench of garbage.  
 > I feel I'm needlessly making this bloated life beastly.  
-> Strange - 
-> I think I'm the only one who can write poetry, 
-> But has no one to share it with.  
-> A person who wants to write poetry in any beautiful moment,
+> Strange -   
+> I think I'm the only one who can write poetry,   
+> But has no one to share it with.   
+> A person who wants to write poetry in any beautiful moment,  
 > Why does he smell of garbage?
 
 ---
@@ -780,15 +779,15 @@ title: Poetry
 ## অনির্বাণ, তার পাহাড় কেমন লাগে?
 
 ```
-:অনির্বাণ, তার পাহাড় কেমন লাগে?
-:আমার?
+:অনির্বাণ, তোর পাহাড় কেমন লাগে?
+:আমার? 
 আমার পাহাড় দেখলে কান্না পায়।
 - ভীষণ কষ্ট হয়।
-- যার দুঃখ আছে, পাহাড়ের দুঃখ সেই তো বাঝে।
+- যার দুঃখ আছে , পাহাড়ের দুঃখ সেই তো বোঝে।
 : পাহাড় কাঁদে?
 : কাঁদে তো। ভীষণ ভাবে কাঁদে।
-- তার কান্না ঝর্ণা হয়ে নামে।
-- তার দুঃখ আকাশ বাঝে, বাতাস বাঝে, বনান্তও বাঝে,
+- তার কান্না ঝর্না হয়ে নামে।
+- তার দুঃখ আকাশ বোঝে, বাতাস বোঝে, বনান্তও বোঝে,
 - আর আমি বুঝি, খানিকটা।
 ```
 
@@ -803,7 +802,8 @@ title: Poetry
 > :Mountains cry?  
 > :They cry. They cry terribly.  
 > —Their tears descend as waterfalls.  
-> —The sky understands their sorrow, the wind understands, the forest's end understands,  
+> —The sky understands their sorrow,  
+> The wind understands, the forest's end understands,   
 > —and I feel, a little.  
 
 ---
@@ -882,7 +882,7 @@ title: Poetry
 > You can tell lies.  
 > You can stop talking to me.  
 > If you want, you can even block me.  
-> You can do whatever you want.
+> You can do whatever you want.  
 > I like everything about you.  
 > Your focus, your thoughts, your behavior.  
 > Your hair clip, your earrings.  
@@ -990,26 +990,26 @@ title: Poetry
 `Translate`
 
 > [!note]- **When Darkness Falls**
-> Take for me an evening, just one, I pray—
-> The evening of the fast-breaking call at the close of day.
-> When hush descends, and the noise falls still,
-> The world stands mute, serene, and chill.
-> When light pours down, and dusk arrives with a thud—
-> Then take not the jarul flower from my chest, if you could.
-> Let the tired flower, the weary hair, find rest instead,
-> Right on the curve of the ear, let its beauty be spread.
-> After a rain-soaked afternoon, when the swift dusk starts to flow—
-> Let that evening be yours, let that evening be mine, I know.
-> Let the warmth cupped inside my palm, so tender and so true,
-> Dissolve upon your cheek, like morning dew.
-> Let the evening blend with your blue scarf's fold,
-> Let the scent of suburbs and wet earth's aroma hold.
-> Let the street dogs walk beside, the flocks of birds take flight,
-> As we borrow a piece of dusk from fading light.
-> Come, sit with me, let's share some time,
-> Stories in tea cups, some lazy rhyme.
-> My weary soul, my tired hand, they seek no other break—
-> Let this long night end only on your shoulder's wake.
+> Take for me an evening, just one, I pray—  
+> The evening of the fast-breaking call at the close of day.  
+> When hush descends, and the noise falls still,  
+> The world stands mute, serene, and chill.  
+> When light pours down, and dusk arrives with a thud—  
+> Then take not the jarul flower from my chest, if you could.  
+> Let the tired flower, the weary hair, find rest instead,  
+> Right on the curve of the ear, let its beauty be spread.  
+> After a rain-soaked afternoon, when the swift dusk starts to flow—  
+> Let that evening be yours, let that evening be mine, I know.  
+> Let the warmth cupped inside my palm, so tender and so true,  
+> Dissolve upon your cheek, like morning dew.  
+> Let the evening blend with your blue scarf's fold,  
+> Let the scent of suburbs and wet earth's aroma hold.  
+> Let the street dogs walk beside, the flocks of birds take flight,  
+> As we borrow a piece of dusk from fading light.  
+> Come, sit with me, let's share some time,  
+> Stories in tea cups, some lazy rhyme.  
+> My weary soul, my tired hand, they seek no other break—  
+> Let this long night end only on your shoulder's wake.  
 
 ---
 
@@ -1292,26 +1292,26 @@ title: Poetry
 > And yet, you never really gave me one.
 > Not just evenings —  
 > Mornings, dusks, noons, and nights —  
-> All of them were yours to give.
-> You never handed them to me outright,  
-> But still, I believed they were mine.  
+> All of them were yours to give.  
+> You never handed them to me outright,   
+> But still, I believed they were mine.   
 > I believed you would —  
 > One day —  
 > Give them all, freely, with open palms.  
-> You did not.
+> You did not.  
 > You didn’t even think of it once, perhaps.  
 > Didn’t lift that grey veil from your eyes  
 > To see —  
 > Just beyond it, I stood waiting,  
 > For years,  
 > Holding a handful of evenings,  
-> A cluster of mornings, dusks, noons, and nights.
+> A cluster of mornings, dusks, noons, and nights.  
 > You could have taken mine, at least.  
 > I would have given them —  
 > Willingly, wholly —  
 > Arranged, adorned,  
 > Wrapped in gentle light.  
-> But you did not take them.
+> But you did not take them.  
 > Now my evenings rot away,  
 > Their stench sours the chambers of my heart.  
 > And still, I wait —  
@@ -1319,7 +1319,7 @@ title: Poetry
 > Holding what remains of light and dark,  
 > To share my evenings with you,  
 > To bind myself to you,  
-> To love you — still.
+> To love you — still.  
 
 ---
 
