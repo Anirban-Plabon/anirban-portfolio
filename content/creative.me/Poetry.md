@@ -88,9 +88,7 @@ title: Poetry
 > where the sun is lost,  
 > the sky is lost,  
 > and you are lost with them.
->
 > —No.
->
 > Can you paint rain, `Anirban`?  
 > Rain that hammers down,  
 > soaks me through,  
@@ -103,9 +101,7 @@ title: Poetry
 > not my hair, not my nails,  
 > a rain like tears.  
 > Can you paint that?
->
 > —No.
->
 > Can you paint sunlight?  
 > A searing noon,  
 > that blisters everything—  
@@ -113,10 +109,8 @@ title: Poetry
 > and dries the last of crying.  
 > Or a winter sun,  
 > cupped in your palm like a small warm fist,  
-> so dearly fond.
->  
-> —No.
->  
+> so dearly fond. 
+> —No. 
 > Then can you paint a storm?  
 > A terrible storm,  
 > advancing with a savage roar—  
@@ -124,12 +118,9 @@ title: Poetry
 > twisting, breaking, crushing to one mass—  
 > a storm that shatters the heart,  
 > shatters you,  
-> shatters me.
->  
-> —No.
->  
-> Then what do you paint?
->  
+> shatters me. 
+> —No. 
+> Then what do you paint? 
 > —I used to.  
 > I painted clouds, and rain, and sun—everything.  
 > I painted you.  
@@ -172,25 +163,19 @@ title: Poetry
 `Translate`
 
 > [!note]- **If You Had Only Wanted**
->
 > If you had wanted—
 > I would have given you all my riches.
->
 > If you had wanted—
 > I would have given you all my wealth.
->
 > If you had wanted—
 > I would have given you all my feelings—
 > my grievances, my affections.
->
 > If you had wanted—
 > I would have surrendered all I have ever earned into you,
 > and as one purified, stripped of everything,
 > I would have dissolved within you.
->
 > I know—
 > this pure, devoted love is not written in my fate.
->
 > Still, what harm is there in being enchanted?
 > What harm is there in remaining deeply, passionately attached?
 
@@ -227,7 +212,6 @@ title: Poetry
 > Go, run away.  
 > Far, farther still — to another land.  
 > To the blue hills, or into the blue sky.
-> 
 > Or be an Angad —  
 > Dive into rebirth.  
 > Paint, adorn.  
@@ -238,7 +222,6 @@ title: Poetry
 > Gently stroke the crimson tresses of spring’s Alakananda.  
 > Rub your tireless feet against the earth,  
 > And fall asleep with dew upon your eyelids.
-> 
 > If sleep does not come — laugh. Cry.  
 > Or simply breathe deep.  
 > While breathing, look up at the sky.  
@@ -288,32 +271,27 @@ title: Poetry
 > I am a creature, endangered in the eternity of time.  
 > With a skyful of hope —  
 > I live on, like an ignorant cripple, barely aware.
-> 
 > Seek from end to end, and you will find nothing —  
 > No one to be found.  
 > From head to toe, a clownish Bhavani — hollow, alone,  
 > A strange and twisted being. 
-> 
 > Time itself falters before him,  
 > Helpless in its passing.  
 > Among heaps of bad habits and garbage heaps,  
 > Half-decayed and trampled — he still drags along the weight of life.  
 > His life — like a snail stuck  
 > To a wall thick with centuries of moss.
-> 
 > And yet, he imagines, he searches for meaning —  
 > Bowing his weary head,  
 > Swallowing every burden whole.  
 > Day after day, he endures  
 > In a self-imposed prison of existence.
-> 
 > Still — he lives.  
 > Only with a shred of self-respect  
 > And a heart full of faith, he waits.  
 > Waits for auspicious times.  
 > Waits for a new dawn.  
 > Waits for transcendence.  
-> 
 > Waits for the day  
 > He shall bloom —  
 > Into the golden filament of a peacock-feathered flower.  
@@ -383,8 +361,7 @@ title: Poetry
 > The exhausted limbs have almost bent down.  
 > From a clenched forefinger escapes the soul's deep sigh.  
 > This is like the eternal end of endless war.  
-> Peace for the heart and freedom for the soul. 
->  
+> Peace for the heart and freedom for the soul.  
 > After this—  
 > from embers is born tender green.  
 > In the expanse of ash, green weaves hope, weaves life.  
@@ -462,7 +439,6 @@ title: Poetry
 > perhaps I clung.  
 > You saw me perhaps, even smiled a few times.  
 > Then brushed me off with the everyday trash.  
-> 
 > You were in me,  
 > maybe you still are, a little.  
 > In my mind's red room I kept you—  
@@ -472,14 +448,12 @@ title: Poetry
 > rarely, if I feel like it, I peek in,  
 > don't sit there anymore—  
 > and won't sit there anymore.  
-> 
 > You dress yourself daily  
 > joyfully, comfortably—  
 > in new colors—  
 > in others' colors—  
 > those colors don't suit my eyes, they fade.  
 > Can another's color ever suit one's own eyes?  
-> 
 > You keep coloring yourself—  
 > let them color you.  
 > Let your red face grow redder.  
@@ -491,7 +465,6 @@ title: Poetry
 > Once, perhaps, I was lost in you,  
 > today I wish—  
 > in this age's journey, may you be the one lost from me.  
-> 
 > —End  
 > `Alok`
 
@@ -788,7 +761,6 @@ title: Poetry
 > `Babui`, `shalik` shake their wings.  
 > Sparkling, glittering, a new afternoon—  
 > as if a new morning.  
-> 
 > Say—  
 > I know you love rain.  
 > But the way I see rain—  
@@ -993,7 +965,7 @@ title: Poetry
 ---
 
 ## আঁধার নামে যখন
-
+```
 আমার একটা সন্ধ্যে তুমি নিও -
 ঠিক রোজার দিনের আজান কালের সন্ধ্যেটা।
 যখন কোলাহল থামে অপলক, চারপাশ সুনসান - চুপচাপ।
@@ -1013,6 +985,7 @@ title: Poetry
 আমার সাথে বসবে চলো,
 চায়ের কাপে গল্প হোক, খানিক নাহয় জিরোনো যাক।
 আমার শ্রান্ত প্রাণ, ক্লান্ত হাত - তোমার কাঁধেই রাত পোহাক।
+```
 
 `Translate`
 
@@ -1021,32 +994,22 @@ title: Poetry
 > The evening of the fast-breaking call at the close of day.
 > When hush descends, and the noise falls still,
 > The world stands mute, serene, and chill.
-> 
 > When light pours down, and dusk arrives with a thud—
 > Then take not the jarul flower from my chest, if you could.
 > Let the tired flower, the weary hair, find rest instead,
 > Right on the curve of the ear, let its beauty be spread.
-> 
 > After a rain-soaked afternoon, when the swift dusk starts to flow—
 > Let that evening be yours, let that evening be mine, I know.
 > Let the warmth cupped inside my palm, so tender and so true,
 > Dissolve upon your cheek, like morning dew.
-
 > Let the evening blend with your blue scarf's fold,
 > Let the scent of suburbs and wet earth's aroma hold.
 > Let the street dogs walk beside, the flocks of birds take flight,
 > As we borrow a piece of dusk from fading light.
-
 > Come, sit with me, let's share some time,
 > Stories in tea cups, some lazy rhyme.
 > My weary soul, my tired hand, they seek no other break—
 > Let this long night end only on your shoulder's wake.
-
----
-
-No — this poem was **not included** in the text you shared earlier. This is another **new addition**.
-
-I’ve kept your structure, corrected only spelling where needed, and translated it with attention to **flow and poetic rhythm (ছন্দ)**.
 
 ---
 
@@ -1091,12 +1054,10 @@ I’ve kept your structure, corrected only spelling where needed, and translated
 > and that black mark on her forehead—
 > like a third eye.
 > A strange enchantment in her face.
->
 > I do not really know her.
 > Like a blurred water-image, drifting—
 > and yet, she lingers in my eyes
 > as if for ages.
->
 > Can one say to a girl
 > seen in passing—walking, sitting—
 > “You are so very beautiful.
@@ -1104,7 +1065,6 @@ I’ve kept your structure, corrected only spelling where needed, and translated
 > I wish to lay you gently
 > upon my eyelids in sleep.”
 > Can one say that?
->
 > Can one say—
 > “At the sight of you, something stirs deep within,
 > in my chest resounds a divine drum-call.
@@ -1114,12 +1074,10 @@ I’ve kept your structure, corrected only spelling where needed, and translated
 > and my mind loses its way.”
 > Can such words be spoken
 > to a girl cradled in light?
->
 > Perhaps not.
 > Perhaps she can only be felt.
 > From miles away,
 > one can only gaze—unblinking.
->
 > She is like the moon—
 > in whose light one may drift and dissolve,
 > yet never truly reach.
@@ -1271,8 +1229,8 @@ I’ve kept your structure, corrected only spelling where needed, and translated
 > Across the city, only clamor.  
 > Everything whirring, honking.  
 > Dust dirt rotten smell everywhere.  
-> No happiness  
-> no peace  
+> No happiness,  
+> no peace,  
 > the frantic busy city only rushes.  
 > The city has nested in my head.  
 > The city rushes, I rush too.  
@@ -1332,18 +1290,15 @@ I’ve kept your structure, corrected only spelling where needed, and translated
 > Tell me — how many evenings have I received from you?  
 > Countless, perhaps thousands.  
 > And yet, you never really gave me one.
-> 
 > Not just evenings —  
 > Mornings, dusks, noons, and nights —  
 > All of them were yours to give.
 > You never handed them to me outright,  
 > But still, I believed they were mine.  
-> 
 > I believed you would —  
 > One day —  
 > Give them all, freely, with open palms.  
 > You did not.
-> 
 > You didn’t even think of it once, perhaps.  
 > Didn’t lift that grey veil from your eyes  
 > To see —  
@@ -1351,17 +1306,14 @@ I’ve kept your structure, corrected only spelling where needed, and translated
 > For years,  
 > Holding a handful of evenings,  
 > A cluster of mornings, dusks, noons, and nights.
-> 
 > You could have taken mine, at least.  
 > I would have given them —  
 > Willingly, wholly —  
 > Arranged, adorned,  
 > Wrapped in gentle light.  
 > But you did not take them.
-> 
 > Now my evenings rot away,  
 > Their stench sours the chambers of my heart.  
-> 
 > And still, I wait —  
 > Behind that veil,  
 > Holding what remains of light and dark,  
@@ -1399,17 +1351,14 @@ I’ve kept your structure, corrected only spelling where needed, and translated
 > Why did my eyes sting and burn upon seeing you?!
 > The mountain of words accumulated over a thousand days—
 > Why did they strike so hard against the doors of my heart's chambers?
-> 
 > Why couldn't I say anything?
 > Why did everything remain unsaid?
-> 
 > Why did I want to say—
 > Return.
 > Return to the greenery.
 > Return to the shimmering fields of a sun-drenched afternoon.
 > Return to the forest, to the azure.
 > Return to the sky, to the infinite.
-> 
 > Return.
 > Return to your existence, to my existence.
 > Return to our existence.
@@ -1448,26 +1397,25 @@ I’ve kept your structure, corrected only spelling where needed, and translated
 যেই আমি তোমার হলাম না — 
 সে প্রকৃতির উপযোগ হোক।
 ```
+
+`Translate`
+
 > [!note]- **Let Me Be an Offering to Nature**
 > Touch me, if you will.
 >Even with neglect or indifference.
 > Or perhaps, along the circumference of my world—
 > Walk just a few steps.
-> 
 > Come and see.
 > See how strangely and beautifully I survive without you.
 > I am breathing, drinking water, laughing.
-> 
 > Without you, there is a strange joy even in tearing my own hair.
 > The five scars on my wrist bring me comfort.
 > Even if ants feast on my severed ear, I feel a thrill.
 > In the paradox of pain, I only feel a shiver of life.
-> 
 > On my eternal journey—
 > Bring a single white Kash flower.
 > Touch it to my half-decayed body.
 > I will find peace.
-> 
 > I know the fire will not touch me.
 > So, let me drift away in the water.
 > Keep a red water lily in my breast pocket.
@@ -1485,6 +1433,7 @@ I’ve kept your structure, corrected only spelling where needed, and translated
 ---
 
 ## অনৈতিক বিরহ
+
 ```
 আমি বিচ্ছেদ অনুভব করিনি এখনও।
 কিন্তু কেনো জানি -
@@ -1521,19 +1470,16 @@ I’ve kept your structure, corrected only spelling where needed, and translated
 `Translate`
 
 > [!note]- **An Unlawful Separation**
->
 > I have not yet felt separation.
 > And yet—
 > somehow, these monsoon-laden days
 > are granting legitimacy to my longing.
->
 > This longing feels... improper.
 > Like an indulgence without right.
 > A presence that should not exist.
 > A feeling that should not be expressed.
 > Something never meant to be practiced,
 > never meant to take form at all.
->
 > And yet—it exists.
 > Wrapped within the folds of my mind,
 > like embers buried under ash,
@@ -1542,14 +1488,12 @@ I’ve kept your structure, corrected only spelling where needed, and translated
 > it exists.
 > And perhaps, that existence itself
 > is the truest thing of all.
->
 > Just as the monsoon rains
 > overflow the banks of the Padma
 > and drown village after village—
 > so too these forbidden sorrows
 > have crossed the bounds of the heart
 > and flooded the mind.
->
 > This sorrow has no legitimacy.
 > Yet it has truth.
 > It is improper—
@@ -1590,41 +1534,32 @@ I’ve kept your structure, corrected only spelling where needed, and translated
 `Translate`
 
 > [!note]- **Lost in Blue**
->
 > Why don’t my evenings turn blue?
->
 > I do not wish
 > for everything to be covered
 > in a tired grey.
->
 > I want everything to be blue—
 > from blue to deeper blue,
 > until all is drenched
 > in an endless, profound horizon.
->
 > I want—
 > in a strangely beautiful dusk,
 > the strands of hair on the right side of your hazy face
 > to leave their trace upon my cheek.
->
 > I want your right forefinger
 > to draw idle patterns on my left ear.
 > Your warm breath
 > to reach my chin.
->
 > My lips
 > to brush your forehead.
 > Your eyes
 > to look only at me.
->
 > At the corners of your eyes,
 > let the falling drops hold only tenderness.
->
 > I want—
 > you to hold me with both your hands.
 > To weave yourself into every scratch upon my back.
 > To claim me, like Damayanti claimed her own.
->
 > Let this small evening of mine
 > dissolve and merge
 > into a vast, cosmic blue.
